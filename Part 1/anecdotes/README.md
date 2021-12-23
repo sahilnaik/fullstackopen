@@ -8,6 +8,7 @@ To start an application, do the following :
 
 # Install dependancies
 $ npm install
+
 # Start the application
 $ npm start
 You can then access the app on : http://localhost:3000/
