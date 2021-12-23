@@ -1,4 +1,4 @@
-Anecdotes
+# Anecdotes
 The world of software engineering is filled with anecdotes that distill timeless truths from our field into short one-liners.
 
 This application allows the user to vote between multiple anecdotes and then displays the most popular one.
